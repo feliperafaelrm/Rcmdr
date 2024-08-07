@@ -1,0 +1,6 @@
+Nome;Sexo;Nota;Faltas
+Breno;M;6,5;2
+Fábio;M;4;7
+Rebeca;F;9,5;3
+Talita;F;10;2
+Vítor;M;5,5;4
